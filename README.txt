@@ -1,0 +1,1 @@
+This repo is chalked full of basic python funzies.
